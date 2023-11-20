@@ -25,6 +25,7 @@ public class ModItemGroups {
                         entries.add(ModBlocks.MAPLE_WOOD);
                         entries.add(ModBlocks.STRIPPED_MAPLE_WOOD);
                         entries.add(ModBlocks.MAPLE_PLANKS);
+                        entries.add(ModBlocks.RED_MAPLE_SAPLING);
 
                     }).build());
 
