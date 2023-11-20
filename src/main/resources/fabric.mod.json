@@ -2,10 +2,10 @@
 	"schemaVersion": 1,
 	"id": "mapleupdate",
 	"version": "${version}",
-	"name": "Atmospheric Mods Maple Update",
-	"description": "This Mod is made to be used in the Atmospheric Modpack, it adds a new Maple biome into the game!",
+	"name": "Maple Update",
+	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Muryko Casaril"
+		"Me!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.mapleupdate.AtmosphericModsMapleUpdate"
+			"net.atmospheric.mapleupdate.MapleUpdate"
 		],
 		"client": [
-			"net.mapleupdate.AtmosphericModsMapleUpdateClient"
+			"net.atmospheric.mapleupdate.MapleUpdateClient"
 		],
 		"fabric-datagen": [
-			"net.mapleupdate.AtmosphericModsMapleUpdateDataGenerator"
+			"net.atmospheric.mapleupdate.MapleUpdateDataGenerator"
 		]
 	},
 	"mixins": [

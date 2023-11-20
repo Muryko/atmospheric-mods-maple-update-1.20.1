@@ -1,3 +1,11 @@
 {
+  "block.mapleupdate.red_maple_leaves": "Red Maple Leaves",
+  "block.mapleupdate.orange_maple_leaves": "Orange Maple Leaves",
+  "block.mapleupdate.yellow_maple_leaves": "Yellow Maple Leaves",
+  "block.mapleupdate.maple_log": "Maple Log",
+  "block.mapleupdate.stripped_maple_log": "Stripped Maple Log",
+  "block.mapleupdate.maple_planks": "Maple Planks",
+  "block.mapleupdate.maple_wood": "Maple Wood",
+  "block.mapleupdate.stripped_maple_wood": "Stripped Maple Wood",
   "itemgroup.mapleupdate": "Atmospheric Mods Maple Update"
 }

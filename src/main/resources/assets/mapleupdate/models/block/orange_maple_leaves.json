@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mapleupdate:block/orange_maple_leaves"
+  }
+}
