@@ -12,7 +12,7 @@ public class RedMapleSaplingGenerator extends SaplingGenerator {
     }
 
     protected RegistryKey<ConfiguredFeature<?, ?>> getTreeFeature(Random random, boolean bees) {
-            return CustomTreeConfiguredFeatures.;
+            return CustomTreeConfiguredFeatures.RED_MAPLE;
     }
 
     public static void registerRedMapleSaplingGenerator() {
